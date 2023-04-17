@@ -1,5 +1,10 @@
 # Hackathon project
 
+## Project download
+```
+git clone https://github.com/retxrika/scrum_twister
+```
+
 ## Project setup
 ```
 npm install
